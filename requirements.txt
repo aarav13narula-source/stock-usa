@@ -4,7 +4,7 @@ Werkzeug==3.0.3
 yfinance==0.2.50
 pandas==2.2.3
 numpy==1.26.4
-pandas-ta @ git+https://github.com/twopirllc/pandas-ta.git@development
+pandas-ta==0.3.14b0
 scikit-learn==1.5.2
 joblib==1.4.2
 requests==2.32.3
